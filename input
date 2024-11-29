@@ -1,0 +1,13 @@
+L = 60
+t = 0.1
+U = 1
+mu = 0
+beta = 500
+nMAX = 6
+xpbc = 0
+
+init_n = 1
+EOffset = 0.1
+
+MC_steps = 200000
+seed = 123456789123
